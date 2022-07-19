@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="windows-1251">
+    <file url="file://$PROJECT_DIR$/src/Combat.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Creatures.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/GameWorld.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Goblin.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Main.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Player.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Skeleton.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Trader.java" charset="windows-1251" />
+    <file url="PROJECT" charset="windows-1251" />
+  </component>
+</project>
